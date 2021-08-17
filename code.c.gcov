@@ -1,0 +1,12 @@
+        -:    0:Source:code.c
+        -:    0:Graph:./code.gcno
+        -:    0:Data:./code.gcda
+        -:    0:Runs:2
+        -:    0:Programs:1
+        -:    1:#include<stdio.h>
+        -:    2:
+function main called 2 returned 100% blocks executed 100%
+        2:    3:int main()
+        -:    4:{
+        2:    5:	printf("Hello world!\n");
+        2:    6:}
